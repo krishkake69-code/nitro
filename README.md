@@ -1,4 +1,4 @@
-# NitroStack Pizzaz Template
+# NitroStackTemplate
 
 Template focused on rich, interactive widget experiences (map/list/detail flows)
 using the NitroStack widget SDK patterns.
